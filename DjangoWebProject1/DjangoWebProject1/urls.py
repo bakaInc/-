@@ -41,7 +41,7 @@ urlpatterns = [
 
    # url(r'^admin_tools/', include('admin_tools.urls')),
 
-   url(r'^admin/', include(admin.site.urls)),
+  # url(r'^admin/', include(admin.site.urls)),
 ]
 
 

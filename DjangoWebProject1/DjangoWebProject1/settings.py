@@ -40,19 +40,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    'admin_tools',
-    'admin_tools.theming',
-    'admin_tools.menu',
-    'admin_tools.dashboard',
-    'django.contrib.sites',
-
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.sites',
+    ]
 
 
-]
 
 MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
